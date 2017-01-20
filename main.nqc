@@ -1,0 +1,6 @@
+task main()
+{
+
+     // Spybotic supprots 8 tasks and 32 subroutines at once max.
+     //  as well as up to 32 global and 4 local variables.
+}
